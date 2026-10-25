@@ -35,7 +35,14 @@ Em 2024, participei do Grand Prix SENAI de Inovação América Latina, onde noss
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 
 />
-
+<img 
+    align="left" 
+    alt="Python" 
+    title="Python"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="[https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg](https://cdn.jsdelivr.net/npm/java@0.18.0/index.min.js)" 
+/>
 <br/>
 <br/>
 
