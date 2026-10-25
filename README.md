@@ -1,67 +1,113 @@
-# 💾 Gabriel Brandão
+# 💻 Gabriel Brandão
 
-**'Engenheiro de Software'**
+**`Software Engineering Student | Aspiring Software Engineer`**
 
-Me chamo Gabriel Silva Brandão, tenho 19 anos e sou natural de Jundiaí, São Paulo. Concluí o ensino médio no SESI 409 e realizei o curso de Técnico em Plásticos pelo SENAI "Conde Alexandre Siciliano".
-Atualmente, curso Engenharia de Software na UniAnchieta, em Jundiaí. Sempre fui fascinado por tecnologia e jogos, o que me levou a integrar a equipe de robótica RoboBuilders, conquistando a medalha de prata na OBR Regional 2021.
-Em 2024, participei do Grand Prix SENAI de Inovação América Latina, onde nossa equipe alcançou a medalha de ouro, reforçando minha paixão por inovação e desenvolvimento tecnológico.
+I'm Gabriel Silva Brandão, a Software Engineering student based in Jundiaí, São Paulo, Brazil. I graduated from SESI 409 and completed a Technical Degree in Plastics at SENAI "Conde Alexandre Siciliano".
+
+I'm currently pursuing a degree in Software Engineering at UniAnchieta. My passion for technology and games led me to join the RoboBuilders robotics team, where I earned a silver medal at the 2021 Regional Brazilian Robotics Olympiad (OBR).
+
+In 2024, I participated in the SENAI Latin American Innovation Grand Prix, where my team won the gold medal. This experience strengthened my interest in innovation, problem-solving, and technology development.
+
+I'm continuously developing my programming skills and expanding my knowledge of software development, with the goal of contributing to meaningful projects and growing as a software engineer.
 
 <p align="left">
     <a href="https://github.com/GabsBrandao23?tab=repositories&sort=stargazers">
-        <img 
-            alt="Total de estrelas" 
-            title="Total de estrelas GitHub" 
-            src="https://custom-icon-badges.demolab.com/github/stars/GabsBrandao23?color=55960c&style=for-the-badge&labelColor=488207&logo=star&label=estrelas"
+        <img
+            alt="GitHub Stars"
+            title="Total GitHub Stars"
+            src="https://custom-icon-badges.demolab.com/github/stars/GabsBrandao23?color=55960c&style=for-the-badge&labelColor=488207&logo=star&label=Stars"
         />
     </a>
     <a href="https://github.com/GabsBrandao23?tab=followers">
-        <img 
-            alt="Seguidores" 
-            title="Me siga no GitHub" 
-            src="https://custom-icon-badges.demolab.com/github/followers/GabsBrandao23?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Seguidores&logoColor=white"
+        <img
+            alt="GitHub Followers"
+            title="Follow me on GitHub"
+            src="https://custom-icon-badges.demolab.com/github/followers/GabsBrandao23?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Followers&logoColor=white"
         />
     </a>
 </p>
 
 ---
 
-### 🕹️ Linguagens e Tecnologias
+### 🛠️ Languages & Technologies
 
-<img 
-    align="left" 
-    alt="Python" 
-    title="Python"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="Java" 
-    title="Java"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 640"><!--!Font Awesome Free v7.3.1 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license/free Copyright 2026 Fonticons, Inc.--><path d="M405.8 376.9C415.6 370.2 429.2 364.4 429.2 364.4C429.2 364.4 390.5 371.4 352 374.6C304.9 378.5 254.3 379.3 228.9 375.9C168.8 367.9 261.9 345.8 261.9 345.8C261.9 345.8 225.8 343.4 181.3 364.8C128.8 390.2 311.3 401.8 405.8 376.9zM320.4 344.8C301.4 302.1 237.3 264.6 320.4 199C424.1 117.2 370.9 64 370.9 64C392.4 148.5 295.3 174.1 260.2 226.6C236.3 262.5 271.9 301 320.4 344.8zM435 168.6C435.1 168.6 259.8 212.4 343.5 308.8C368.2 337.2 337 362.8 337 362.8C337 362.8 399.7 330.4 370.9 289.9C344 252.1 323.4 233.3 435 168.6zM428.9 439.1C428.4 440.1 427.7 440.9 426.9 441.7C555.2 408 508 322.8 446.7 344.4C443.4 345.6 440.5 347.8 438.5 350.7C442.1 349.4 445.8 348.4 449.5 347.7C480.5 341.2 525 389.2 428.9 439.1zM476 501.4C476 501.4 490.5 513.3 460.1 522.6C402.2 540.1 219.3 545.4 168.5 523.3C150.2 515.4 184.5 504.3 195.3 502C206.5 499.6 213 500 213 500C192.7 485.7 81.7 528.1 156.6 540.2C360.8 573.4 529 525.3 476 501.4zM252.5 460C173.8 482 300.4 527.4 400.6 484.5C390.8 480.7 381.4 476.1 372.4 470.7C327.7 479.2 307 479.8 266.4 475.2C232.9 471.4 252.5 460 252.5 460zM432.3 557.2C353.6 572 256.5 570.3 199 560.8C199 560.7 210.8 570.5 271.4 574.4C363.6 580.3 505.2 571.1 508.5 527.5C508.5 527.5 502.1 544 432.3 557.2zM388.7 417C329.5 428.4 295.2 428.1 251.9 423.6C218.4 420.1 240.3 403.9 240.3 403.9C153.5 432.7 288.5 465.3 409.8 429.8C402 427 394.8 422.7 388.7 417z"/></svg>" 
-/>
-<br/>
-<br/>
+<p align="left">
+    <img
+        alt="Python"
+        title="Python"
+        width="40"
+        src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg"
+    />
+    <img
+        alt="Java"
+        title="Java"
+        width="40"
+        src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg"
+    />
+    <img
+        alt="JavaScript"
+        title="JavaScript"
+        width="40"
+        src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg"
+    />
+    <img
+        alt="HTML5"
+        title="HTML5"
+        width="40"
+        src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg"
+    />
+    <img
+        alt="CSS3"
+        title="CSS3"
+        width="40"
+        src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg"
+    />
+    <img
+        alt="Git"
+        title="Git"
+        width="40"
+        src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg"
+    />
+    <img
+        alt="GitHub"
+        title="GitHub"
+        width="40"
+        src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg"
+    />
+</p>
 
-### 📊 Estatísticas
+---
+
+### 📊 GitHub Statistics
 
 <p>
-  <img 
-    align="left" 
-    alt="GitHub Stats" 
-    height="200" 
-    style="padding-right: 10px;" 
-    src="https://github-readme-stats.vercel.app/api?username=GabsBrandao23&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
-  />
+    <img
+        align="left"
+        alt="GitHub Statistics"
+        height="180"
+        src="https://github-readme-stats.vercel.app/api?username=GabsBrandao23&show_icons=true&theme=tokyonight&include_all_commits=true"
+    />
+    <img
+        align="left"
+        alt="Most Used Languages"
+        height="180"
+        src="https://github-readme-stats.vercel.app/api/top-langs/?username=GabsBrandao23&theme=tokyonight&layout=compact&custom_title=Most%20Used%20Languages&langs_count=9"
+    />
+</p>
 
-<img 
-      align="left" 
-      alt="GitHub Stats" 
-      height="200" 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=GabsBrandao23&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
-  />
+<br clear="both"/>
 
+---
+
+### 🎯 Current Goals
+
+- Strengthening my skills in software engineering and object-oriented programming.
+- Building practical projects to apply what I learn.
+- Improving my problem-solving and technical skills.
+- Preparing for international career opportunities.
+
+---
+
+<p align="center">
+    <i>"Always learning, building, and improving."</i>
 </p>
